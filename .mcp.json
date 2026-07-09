@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "seqbench": {
+      "type": "http",
+      "url": "https://seqbench.com/api/mcp"
+    }
+  }
+}
