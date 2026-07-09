@@ -1,0 +1,23 @@
+{
+  "name": "seqbench",
+  "description": "Bioinformatics MCP server with batch processing and multi-tool workflow pipelines over whole FASTA files, plasmid/sequence visualization, primer design, restriction & cloning simulation, CRISPR guide design, codon optimisation, and protein analysis.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SeqBench",
+    "email": "seqbench.bio@gmail.com"
+  },
+  "homepage": "https://seqbench.com/mcp",
+  "repository": "https://github.com/Leyaoanchor/seqbench-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bioinformatics",
+    "dna",
+    "rna",
+    "protein",
+    "sequence-analysis",
+    "molecular-biology",
+    "crispr",
+    "primer-design",
+    "cloning"
+  ]
+}
