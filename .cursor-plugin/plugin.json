@@ -1,0 +1,29 @@
+{
+  "name": "seqbench",
+  "description": "Bioinformatics MCP server for DNA/RNA/protein sequence analysis: translation, primer Tm & dimers, ORF finding, restriction sites & cloning, protein properties, codon optimisation, CRISPR guide design, sequence alignment, plus batch and multi-tool workflow pipelines over a whole FASTA. Free, no API key required.",
+  "version": "1.0.0",
+  "author": {
+    "name": "SeqBench",
+    "email": "seqbench.bio@gmail.com"
+  },
+  "homepage": "https://seqbench.com/mcp",
+  "repository": "https://github.com/Leyaoanchor/seqbench-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bioinformatics",
+    "dna",
+    "rna",
+    "protein",
+    "sequence-analysis",
+    "molecular-biology",
+    "crispr",
+    "primer-design",
+    "cloning"
+  ],
+  "logo": "logo.jpg",
+  "mcpServers": {
+    "seqbench": {
+      "url": "https://seqbench.com/api/mcp"
+    }
+  }
+}
