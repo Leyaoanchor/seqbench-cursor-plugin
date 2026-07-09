@@ -1,6 +1,6 @@
 {
   "name": "seqbench",
-  "description": "Bioinformatics MCP server for DNA/RNA/protein sequence analysis: translation, primer Tm & dimers, ORF finding, restriction sites & cloning, protein properties, codon optimisation, CRISPR guide design, sequence alignment, plus batch and multi-tool workflow pipelines over a whole FASTA. Free, no API key required.",
+  "description": "Bioinformatics MCP server with batch processing and multi-tool workflow pipelines over whole FASTA files, plasmid/sequence visualization, primer design, restriction & cloning simulation, CRISPR guide design, codon optimisation, and protein analysis.",
   "version": "1.0.0",
   "author": {
     "name": "SeqBench",
